@@ -1,0 +1,6 @@
+{
+  "name": "recruta-com-ia-rag-agentes",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tests/orquestracao.test.mjs" }
+}
